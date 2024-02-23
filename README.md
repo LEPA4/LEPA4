@@ -1,16 +1,32 @@
-### Hi there 👋
+### Well... I see you've found my GitHub profile
+Welcome.
 
-<!--
-**LEPA4/LEPA4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Working On -->
+- [DIRO](https://github.com/DAPChat/DIRO) - An MMO FPS
+- [DCG](https://github.com/DAPChat/DCG) - A Multiplayer Card Game
+- Unforgotten Things - A Story
 
-Here are some ideas to get you started:
+Currently Learning -->
+- AI
+- Networking
+- CyberSecurity
+- Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I Know (in no particular order) -->
+- Spanish
+- C#
+- C++ (basics)
+- Python
+- Javascript, HTML, CSS
+- Java
+
+What I Use -->
+- Godot
+- Visual Studio
+- Google Colab
+- Google Docs
+
+\# BoycottReplit
+
+May DAPChat rest in peace (Replit discontinued free hosting) <-- its memory stays through DIRO and the DCG
+It was a Node.JS application
