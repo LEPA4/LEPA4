@@ -29,3 +29,5 @@ What I Use -->
 \# BoycottReplit
 
 May DAPChat rest in peace (Replit discontinued free hosting - it was Node.JS) <-- its memory stays through DIRO and the DCG
+
+Check out the [DAPChat](https://github.com/DAPChat) organization (DAPChat is not published but the games are)
