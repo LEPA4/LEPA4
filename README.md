@@ -28,5 +28,4 @@ What I Use -->
 
 \# BoycottReplit
 
-May DAPChat rest in peace (Replit discontinued free hosting) <-- its memory stays through DIRO and the DCG
-It was a Node.JS application
+May DAPChat rest in peace (Replit discontinued free hosting - it was Node.JS) <-- its memory stays through DIRO and the DCG
