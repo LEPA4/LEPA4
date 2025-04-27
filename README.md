@@ -2,7 +2,6 @@
 Welcome.
 
 Currently Working On -->
-- [DIRO](https://github.com/DAPChat/DIRO) - An MMO FPS
 - [DCG](https://github.com/DAPChat/DCG) - A Multiplayer Card Game
 - Unforgotten Things - A Story
 
